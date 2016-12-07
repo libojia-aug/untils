@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/yarn/sources/hadoop-yarn-applications-unmanaged-am-launcher-2.7.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/yarn/sources/hadoop-yarn-server-nodemanager-2.7.3-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/yarn/sources/hadoop-yarn-common-2.7.3-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/yarn/sources/hadoop-yarn-api-2.7.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/yarn/sources/hadoop-yarn-server-common-2.7.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/yarn/sources/hadoop-yarn-server-web-proxy-2.7.3-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/yarn/sources/hadoop-yarn-server-applicationhistoryservice-2.7.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/yarn/sources/hadoop-yarn-server-resourcemanager-2.7.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/yarn/sources/hadoop-yarn-client-2.7.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/yarn/sources/hadoop-yarn-applications-distributedshell-2.7.3-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/yarn/sources/hadoop-yarn-server-nodemanager-2.7.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/yarn/sources/hadoop-yarn-client-2.7.3-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/yarn/sources/hadoop-yarn-applications-unmanaged-am-launcher-2.7.3-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/yarn/sources/hadoop-yarn-server-web-proxy-2.7.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/yarn/sources/hadoop-yarn-applications-distributedshell-2.7.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/yarn/sources/hadoop-yarn-server-resourcemanager-2.7.3-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/yarn/sources/hadoop-yarn-server-common-2.7.3-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/yarn/sources/hadoop-yarn-server-applicationhistoryservice-2.7.3-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/yarn/sources/hadoop-yarn-server-tests-2.7.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/yarn/sources/hadoop-yarn-server-tests-2.7.3-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/yarn/sources/hadoop-yarn-api-2.7.3-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/yarn/sources/hadoop-yarn-common-2.7.3-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

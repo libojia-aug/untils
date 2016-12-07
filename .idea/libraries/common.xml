@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/common/hadoop-nfs-2.7.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/common/hadoop-common-2.7.3-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/common/hadoop-common-2.7.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

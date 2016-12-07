@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="sources4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/mapreduce/sources/hadoop-mapreduce-client-common-2.7.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/mapreduce/sources/hadoop-mapreduce-client-core-2.7.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/mapreduce/sources/hadoop-mapreduce-client-common-2.7.3-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/mapreduce/sources/hadoop-mapreduce-client-app-2.7.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/mapreduce/sources/hadoop-mapreduce-client-core-2.7.3-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/mapreduce/sources/hadoop-mapreduce-client-hs-plugins-2.7.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/mapreduce/sources/hadoop-mapreduce-client-hs-2.7.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/mapreduce/sources/hadoop-mapreduce-examples-2.7.3-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/mapreduce/sources/hadoop-mapreduce-examples-2.7.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/mapreduce/sources/hadoop-mapreduce-client-jobclient-2.7.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/mapreduce/sources/hadoop-mapreduce-client-jobclient-2.7.3-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/mapreduce/sources/hadoop-mapreduce-client-hs-2.7.3-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/mapreduce/sources/hadoop-mapreduce-client-shuffle-2.7.3-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/mapreduce/sources/hadoop-mapreduce-client-shuffle-2.7.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/mapreduce/sources/hadoop-mapreduce-client-app-2.7.3-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/mapreduce/sources/hadoop-mapreduce-client-hs-plugins-2.7.3-test-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

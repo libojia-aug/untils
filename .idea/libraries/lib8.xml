@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="lib8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/httpfs/tomcat/lib/jasper.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/httpfs/tomcat/lib/jasper-el.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/httpfs/tomcat/lib/tomcat-i18n-es.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/httpfs/tomcat/lib/catalina-tribes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/httpfs/tomcat/lib/tomcat-coyote.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/httpfs/tomcat/lib/catalina-ant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/httpfs/tomcat/lib/el-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/httpfs/tomcat/lib/catalina.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/httpfs/tomcat/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/httpfs/tomcat/lib/tomcat-i18n-fr.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/httpfs/tomcat/lib/annotations-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/httpfs/tomcat/lib/tomcat-dbcp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/httpfs/tomcat/lib/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/httpfs/tomcat/lib/tomcat-i18n-ja.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/httpfs/tomcat/lib/catalina-ha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop/httpfs/tomcat/lib/ecj-4.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
