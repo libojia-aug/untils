@@ -1,7 +1,7 @@
 package topN.driver;
 
-import topN.mapper.topNMapper;
-import topN.reducer.topNReducer;
+import webLog.mapper.webLogMapper;
+import webLog.reducer.webLogReducer;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.LongWritable;
@@ -22,8 +22,8 @@ public class topNDriver {
 
         Job job = Job.getInstance(conf, "topN");
         job.setJarByClass(topN.driver.topNDriver.class);
-        job.setMapperClass(topNMapper.class);
-        job.setReducerClass(topNReducer.class);
+        job.setMapperClass(webLogMapper.class);
+        job.setReducerClass(webLogReducer.class);
 
         job.setMapOutputKeyClass(LongWritable.class);
         job.setMapOutputValueClass(Text.class);

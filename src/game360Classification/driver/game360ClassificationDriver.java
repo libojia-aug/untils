@@ -29,7 +29,7 @@ public class game360ClassificationDriver {
         job.setReducerClass(game360ClassificationReducer.class);
 
         job.setMapOutputKeyClass(Text.class);
-        job.setMapOutputValueClass(LongWritable.class);
+        job.setMapOutputValueClass(Text.class);
         job.setOutputKeyClass(Text.class);
         job.setOutputValueClass(LongWritable.class);
 
