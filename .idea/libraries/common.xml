@@ -1,11 +1,12 @@
 <component name="libraryTable">
   <library name="common">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/hadoop/common/hadoop-nfs-2.7.3.jar!/" />
-      <root url="jar://$PROJECT_DIR$/lib/hadoop/common/hadoop-common-2.7.3-tests.jar!/" />
-      <root url="jar://$PROJECT_DIR$/lib/hadoop/common/hadoop-common-2.7.3.jar!/" />
+      <root url="file://$PROJECT_DIR$/../hadoop/hadoop-2.7.3/share/hadoop/common" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../hadoop/hadoop-2.7.3/share/hadoop/common/jdiff" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../hadoop/hadoop-2.7.3/share/hadoop/common" recursive="false" />
   </library>
 </component>

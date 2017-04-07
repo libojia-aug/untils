@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="httpfs">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../hadoop/hadoop-2.7.3/share/hadoop/httpfs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
